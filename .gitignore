@@ -1,0 +1,4 @@
+.venv/
+.idea/
+news.csv
+__pycache__/
